@@ -28,6 +28,13 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+          <script defer src="../js/ca-ngao.js" />
+          <script defer src="../js/MorphSVGPlugin3.min.js" />
+          <script defer src="../js/DrawSVGPlugin3.min.js" />
+          <script defer src="../js/MotionPathPlugin.min.js" />
+          <script defer src="../js/Physics2DPlugin3.min.js" />
+          <script defer src="../js/EasePack3.min.js" />
+          <script async src="../js/ngao.js" />
         </body>
       </Html>
     );

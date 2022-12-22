@@ -35,6 +35,8 @@ const HomePage = () => {
             DURATION,
             'Cuộc sống của tớ bớt nhàm chán hơn khi có cậu đó 😅😅😅',
             DURATION,
+            'Tớ cũng rất xin lỗi vì đã làm cậu giận 🙇🏼‍♂️  🙇🏼‍♂️  🙇🏼‍♂️ ',
+            DURATION,
             'Và cuối cùng tớ chúc cậu ngày giáng sinh vui vẻ ღღღ',
             DURATION,
             'À!!! Cậu đã hứa là cậu luôn cười rồi đó nhé 👌👌👌',
