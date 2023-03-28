@@ -17,7 +17,7 @@ function MyApp({ Component, pageProps }: CustomAppProps) {
   return (
     <>
       <Head>
-        <title> Yêu em ❤❤❤</title>
+        <title> ❤Bé Bự❤</title>
         <meta name='description' />
         <meta
           name='viewport'
